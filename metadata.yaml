@@ -1,0 +1,29 @@
+_repo: The-Fortunate-Foundlings--13-Being-the-Genuine-History-of-Colonel-M--Rs-and-His-Sister-Madam-__10804
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haywood, Eliza Fowler
+    alias: Haywood, Mrs. (Eliza Fowler)
+    deathdate: 1756
+    gutenberg_agent_id: '3687'
+    url: http://www.gutenberg.org/2009/agents/3687
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 18th century'
+- GITenberg
+title: "The Fortunate Foundlings\r\nBeing the Genuine History of Colonel M——Rs, and\
+  \ His Sister, Madam Du P——Y, the Issue of the Hon. Ch——Es M——Rs, Son of the Late\
+  \ Duke of R—— L——D. Containing Many Wonderful Accidents That Befel Them in Their\
+  \ Travels, and Interspersed with the Characters and Adventures of Several Persons\
+  \ of Condition, In the Most Polite Courts of Europe. the Whole Calculated for the\
+  \ Entertainment and Improvement of the Youth of Both Sexes."
+url: http://www.gutenberg.org/ebooks/10804
