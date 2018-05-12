@@ -1,5 +1,8 @@
 _repo: The-Fortunate-Foundlings--13-Being-the-Genuine-History-of-Colonel-M--Rs-and-His-Sister-Madam-__10804
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haywood, Eliza Fowler
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '3687'
     url: http://www.gutenberg.org/2009/agents/3687
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10804#The-Fortunate-Foundlings--13-Being-the-Genuine-History-of-Colonel-M--Rs-and-His-Sister-Madam-_
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
